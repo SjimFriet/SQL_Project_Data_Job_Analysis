@@ -52,12 +52,10 @@ Programming and Visualization Tools like Python, Tableau, and Power BI are essen
     "skills": "tableau",
     "demand_count": "3745"
   },
-
-*/
-
-
   {
     "skills": "power bi",
     "demand_count": "2609"
   }
 ]
+
+*/
