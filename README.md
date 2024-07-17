@@ -6,7 +6,7 @@ Dive into the data job market! Focusing on data analyst roles, this project expl
 
 🔍 SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
-
+&nbsp;
 
 # Background
 Driven by a quest to navigate the data analyst job market more effectively, this project was born from a desire to pinpoint top-paid and in-demand skills, streamlining others work to find optimal jobs.
@@ -22,6 +22,7 @@ Data hails from my [SQL Course](https://lukebarousse.com/sql). It's packed with 
 4. Which skills are associated with higher salaries?
 5. What are the most optimal skills to learn?
 
+&nbsp;
 
 # Tools I Used
 For my deep dive into the data analyst job market, I harnessed the power of several key tools:
@@ -30,6 +31,8 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 - **PostgreSQL:** The chosen database management system, ideal for handling the job posting data.
 - **Visual Studio Code:** My go-to for database management and executing SQL queries.
 - **Git & GitHub:** Essential for version control and sharing my SQL scripts and analysis, ensuring collaboration and project tracking.
+
+&nbsp;
 
 # The Analysis
 Each query for this project aimed at investigating specific aspects of the data analyst job market. Here’s how I approached each question:
@@ -262,6 +265,7 @@ Here's a breakdown of the most optimal skills for Data Analysts in 2023:
 - **Business Intelligence and Visualization Tools:** Tableau and Looker, with demand counts of 230 and 49 respectively, and average salaries around $99,288 and $103,795, highlight the critical role of data visualization and business intelligence in deriving actionable insights from data.
 - **Database Technologies:** The demand for skills in traditional and NoSQL databases (Oracle, SQL Server, NoSQL) with average salaries ranging from $97,786 to $104,534, reflects the enduring need for data storage, retrieval, and management expertise.
 
+&nbsp;
 
 # What I Learned
 
@@ -270,6 +274,8 @@ Throughout this adventure, I've turbocharged my SQL toolkit with some serious fi
 - **🧩 Complex Query Crafting:** Mastered the art of advanced SQL, merging tables like a pro and wielding WITH clauses for ninja-level temp table maneuvers.
 - **📊 Data Aggregation:** Got cozy with GROUP BY and turned aggregate functions like COUNT() and AVG() into my data-summarizing sidekicks.
 - **💡 Analytical Wizardry:** Leveled up my real-world puzzle-solving skills, turning questions into actionable, insightful SQL queries.
+
+&nbsp;
 
 # Conclusions
 
